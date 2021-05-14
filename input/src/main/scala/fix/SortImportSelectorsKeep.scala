@@ -1,5 +1,6 @@
 /*
-rules = OrganizeImports
+rules = [OrganizeImports]
+OrganizeImports.removeUnused = false
 OrganizeImports {
   importSelectorsOrder = Keep
   groupedImports = Keep

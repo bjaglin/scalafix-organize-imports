@@ -1,5 +1,6 @@
 /*
 rules = [OrganizeImports]
+OrganizeImports.removeUnused = false
 OrganizeImports {
   preset = DEFAULT
   groupedImports = Merge

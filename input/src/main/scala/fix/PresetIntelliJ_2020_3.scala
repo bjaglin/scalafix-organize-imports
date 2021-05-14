@@ -1,5 +1,6 @@
 /*
 rules = [OrganizeImports]
+OrganizeImports.removeUnused = false
 OrganizeImports {
   preset = INTELLIJ_2020_3
   groupedImports = Explode
